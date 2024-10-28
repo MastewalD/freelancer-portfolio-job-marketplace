@@ -10,6 +10,7 @@ A web application that connects freelancers with clients seeking to hire for var
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
+- [ER Diagram](#er-diagram)
 - [Contributing](#contributing)
 - [License](#license)
 
